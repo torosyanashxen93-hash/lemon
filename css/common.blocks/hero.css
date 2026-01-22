@@ -20,6 +20,9 @@
     text-align: center;
     color: #1c2436;
     margin-bottom: 30px;
+    font-size: clamp(1.875rem, calc(1.214rem + 3.304vw), 4.188rem);
+    /* min: 30px, max: 67px */
+    ;
 }
 
 .title {}
