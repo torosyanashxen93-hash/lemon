@@ -1,0 +1,33 @@
+.pages {}
+
+.pages__container {}
+
+.container {}
+
+.template__title {
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #454c5f;
+}
+
+.landing__title {}
+
+.title {}
+
+.pages__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 90px;
+}
+
+.pages__img {
+    vertical-align: top;
+}
+
+.pages__img-box {}

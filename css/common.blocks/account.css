@@ -1,0 +1,18 @@
+.account {}
+
+.container {}
+
+.account__title {}
+
+.title {}
+
+.account__content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 90px;
+}
+
+.account__img-mox {}
+
+.account__img {}

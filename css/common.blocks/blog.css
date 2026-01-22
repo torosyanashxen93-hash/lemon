@@ -1,0 +1,18 @@
+.blog {}
+
+.container {}
+
+.blog__title {}
+
+.title {}
+
+.blog__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 90px;
+}
+
+.blog__img-mox {}
+
+.blog__img {}

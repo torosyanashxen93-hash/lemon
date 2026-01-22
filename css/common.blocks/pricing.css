@@ -1,0 +1,20 @@
+.pricing {}
+
+.pricing__container {}
+
+.container {}
+
+.pricing__title {}
+
+.title {}
+
+.pricing__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 90px;
+}
+
+.pricing__img-mox {}
+
+.pricing__img {}

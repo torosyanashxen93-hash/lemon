@@ -1,0 +1,18 @@
+.company {}
+
+.container {}
+
+.company__title {}
+
+.title {}
+
+.company__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 90px;
+}
+
+.company__img-box {}
+
+.company__img {}

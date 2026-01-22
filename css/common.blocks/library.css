@@ -1,0 +1,14 @@
+.library {}
+
+.container {}
+
+.library__content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.library__img-mox {}
+
+.library__img {}
